@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data outputs
+data/
+
+# Project files
+mod_pd.ipynb
+output/Base_Modele_PD_Enrichie.csv
+output/Base_Modele_PD_Enrichie_CHR.csv
+output/Base_Modele_PD_Final_Calibre.csv

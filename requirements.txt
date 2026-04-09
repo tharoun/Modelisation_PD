@@ -1,0 +1,15 @@
+numpy
+pandas
+gdown
+matplotlib
+seaborn
+jinja2
+scipy
+statsmodels
+scikit-learn
+imbalanced-learn
+ppscore
+openpyxl
+rich
+ipykernel
+jupyter

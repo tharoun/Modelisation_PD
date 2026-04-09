@@ -1,0 +1,29 @@
+[project]
+name = "modelisation-pd"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    "gdown>=5.2.1",
+    "imblearn>=0.0",
+    "ipykernel>=7.2.0",
+    "jinja2>=3.1.6",
+    "lightgbm>=4.6.0",
+    "matplotlib>=3.10.8",
+    "mlxtend>=0.24.0",
+    "numpy>=2.4.3",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.1",
+    "ppscore>=1.3.1",
+    "rich>=14.3.3",
+    "scikit-learn>=1.8.0",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.6",
+    "xgboost>=3.2.0",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.2.0",
+]

@@ -1,0 +1,4 @@
+Échantillon,AUC,Gini,Accuracy,Precision,Rappel,F1
+Train (SMOTE),0.8862,0.7724,0.8246,0.8549,0.782,0.8168
+Test,0.8828,0.7657,0.8658,0.0165,0.7568,0.0323
+Hors du temps,0.88,0.76,0.8683,0.016,0.7509,0.0313
